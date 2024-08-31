@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 coach: Shirely
+=======
+coach: Raymond
+>>>>>>> 477cff6 (Edit Panthers)
 coach: Teddy
 
 members:
